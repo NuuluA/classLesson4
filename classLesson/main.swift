@@ -296,6 +296,7 @@ inheritTrack.greeting()
 inheritTrack.infoTrack(inheritTrack)
 
 inheritTrack.door = .open
+
 inheritTrack.doorOpen()
 
 
